@@ -54,7 +54,10 @@ for i in range(0,df.shape[1]):
   print(df.iloc[:,i].value_counts())
   print("---------------------------------------")
 ```
-![image](https://github.com/vinushcv/Ex03-Univariate-Analysis/assets/113975318/829bb76c-13e6-452a-9701-6c1fc98d6097)
+![image](https://github.com/vinushcv/Ex03-Univariate-Analysis/assets/113975318/829bb76c-13e6-452a-9701-6c1fc98d6097)![image](https://github.com/vinushcv/Ex03-Univariate-Analysis/assets/113975318/a0b3e571-780a-4926-8ceb-8640bf449b09)![image](https://github.com/vinushcv/Ex03-Univariate-Analysis/assets/113975318/d55d9ad0-a1f7-48f4-b2dd-8d3c1a37d4c8)![image](https://github.com/vinushcv/Ex03-Univariate-Analysis/assets/113975318/e5fb0998-c333-444d-88f1-eb4ba6cfd627)
+
+
+
 
 
 
